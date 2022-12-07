@@ -1,2 +1,0 @@
-system.RegistrationScreen
-system.RegistrationScreen$1
